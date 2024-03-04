@@ -2,7 +2,7 @@
 
 ## Hosted Link
 
-
+https://hridyansh-docs-mini-app.netlify.app/
 
 ## Description
 
